@@ -10,3 +10,5 @@ eggs
 .project
 .pydevproject
 *.sublime*
+HreyfingarInnlansreiknings.xml
+*.ofx
